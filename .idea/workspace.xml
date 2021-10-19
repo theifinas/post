@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="476ce28b-cb34-481e-ba14-a20da21b10e9" name="Default Changelist" comment="" />
+    <list default="true" id="476ce28b-cb34-481e-ba14-a20da21b10e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wer/src/components/Post.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wer/src/components/postModal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wer/src/pages/PostList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wer/src/css/Post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wer/src/css/Post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wer/src/pages/Post.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wer/src/router/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/wer/src/router/routes.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,12 +23,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Vue Single File Component" />
         <option value="SCSS File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1zaq6EuVByB6c0QGRBqacXkgl0a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,11 +54,35 @@
       <option name="presentableId" value="Default" />
       <updated>1634396368589</updated>
       <workItem from="1634396372689" duration="4324000" />
-      <workItem from="1634482430159" duration="1873000" />
+      <workItem from="1634482430159" duration="2146000" />
+      <workItem from="1634550407106" duration="27000" />
+      <workItem from="1634561854412" duration="14000" />
+      <workItem from="1634561967650" duration="2113000" />
+      <workItem from="1634648428763" duration="681000" />
+      <workItem from="1634657025341" duration="25000" />
+      <workItem from="1634659167856" duration="132000" />
+      <workItem from="1634659320287" duration="86000" />
+      <workItem from="1634659428944" duration="155000" />
+      <workItem from="1634659600682" duration="22000" />
+      <workItem from="1634659640622" duration="271000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1634659440712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1634659440712" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1634550427427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1634550427427" />
+    <state x="41" y="189" key="run.anything.popup" timestamp="1634659816103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="41" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1634659816103" />
   </component>
 </project>

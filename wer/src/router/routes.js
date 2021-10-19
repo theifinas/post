@@ -1,4 +1,3 @@
-
 const routes = [
   {
     path: '/',
@@ -9,7 +8,7 @@ const routes = [
   },
   {
     path: '/post',
-    component: () => import('../pages/Post')
+    component:() => import('../pages/PostList')
   },
 
   // Always leave this as last one,
